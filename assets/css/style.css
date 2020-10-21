@@ -101,25 +101,13 @@ p {
     text-align: center;
 }
 
-/* Combined following selectors into one attribute */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* Combined the following selectors into one attribute */
 .search-engine-optimization {
     margin-bottom: 20px;
