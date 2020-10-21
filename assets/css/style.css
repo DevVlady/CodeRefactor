@@ -87,22 +87,12 @@ p {
     background-color: #2589bd;
 }
 
-/* Combined following selectors into one attribute */
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 /* Combined following selectors into one attribute */
 .benefit-lead h3 {
     margin-bottom: 10px;
