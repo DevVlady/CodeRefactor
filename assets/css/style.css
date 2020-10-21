@@ -93,17 +93,9 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Combined following selectors into one attribute */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
