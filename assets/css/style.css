@@ -123,18 +123,11 @@ p {
 }
 
 /* Combined the following selectors into one attribute */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
-
 /* Combined following selectors into one attribute */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
