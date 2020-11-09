@@ -1,18 +1,9 @@
-# Summary
+# Code_Refactor
 
-* Prior to making any changes the webpage when launched experienced issues. Some of those issues are listed below.
+Description: In this project the instructions were to fix broken links, clean the html and css code to make it cleaner by removing unnecessary classes and id's used.
 
-    * The first link at the top of the page was not working. To fix this is did the following.
-    * Changed the selector in the tag from id to class in order for this to work.
+Instructions: Utilize CSS3 and HTML5 to provide a clean code and make it work appropriate.
 
-    * Some other changes that were made to this HTML file were the code was a little messy, such as the unordered list so i was able to clean this up to make it look nicer.
+Technologies and programming languages used in this project are: HTML5 & CSS3.
 
-    * I changed the title from the generic "webpage" title to reflect the title of the website "Horiseon."
-
-    * I also removed the div tag with a class of header and footer and replaced it with a footer and header tag instead.
-
-    * Added some alt attributes to all images to ensure that it follows proper HTML format.
-
-    * In the CSS file, i combined similar classes & id that have the same attributes to make things a bit cleaner and easier to read.
-
-* The website now seems to funstion better and all the code is much cleaner then it was before.
+![image](https://user-images.githubusercontent.com/71519918/98503444-2595cb00-221a-11eb-9414-309a140ed40d.png)
